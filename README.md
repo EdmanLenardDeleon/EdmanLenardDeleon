@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Edman Lenard V. De Leon
 
-<!--
-**EdmanLenardDeleon/EdmanLenardDeleon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I am **Edman Lenard V. De Leon**, with a flair for coding and database management skills.  
+I thrive on tackling complex problems and crafting elegant solutions.  
+My journey in tech began when I took up the **BS Information Technology** program, where I continue to grow and refine my skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+**Bachelor of Science in Information Technology**  
+*New Era University*  
+📅 2021 – Present  
+
+---
+
+## 📜 Certifications
+- NoSQL and DBaaS 101  
+- Oracle Cloud Data Management 2023 Certified Foundations Associate  
+- Oracle Cloud Infrastructure 2023 Certified Foundations Associate  
+
+---
+
+## 🛠️ Skill Sets
+
+### 💻 Programming
+- Java  
+- JavaScript  
+
+### 🗄️ Databases
+- IBM DB2 Cloud  
+
+### 🧰 Tools & Technologies
+- Lucidchart  
+- Jaspersoft Studio  
+- Eclipse  
+- HTML  
+
+---
+
+## 📫 Contact Me
+- 🔗 LinkedIn: [Your LinkedIn Profile Link Here]  
+- 📧 Email: edman.deleon14@gmail.com  
+
+---
+
+## ✨ Fun Fact
+I enjoy solving complex problems and continuously learning new technologies to improve my craft.
