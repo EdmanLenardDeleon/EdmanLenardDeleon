@@ -15,7 +15,7 @@ My journey in tech began when I took up the **BS Information Technology** progra
 ---
 
 ## 📜 Certifications
-- [NoSQL and DBaaS 101](https://learn.oracle.com/ols/course/nosql-and-dbaas-101/35603/82172)  
+- [NoSQL and DBaaS 101]([https://learn.oracle.com/ols/course/nosql-and-dbaas-101/35603/82172](https://courses.cognitiveclass.ai/certificates/377a2762e485401f9efa9e20b30cdf8c))  
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://education.oracle.com/oracle-cloud-data-management-2023-certified-foundations-associate/trackp_OCDMF2023)  
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://education.oracle.com/oracle-cloud-infrastructure-2023-certified-foundations-associate/trackp_OCI23CF)   
 
